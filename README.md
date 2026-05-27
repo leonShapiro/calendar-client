@@ -9,3 +9,5 @@ Frontend application for a full-stack calendar system built with native JavaScri
 * Communicates with backend REST API for all data operations
 
 **Tech Stack:** Vanilla JavaScript, HTML, CSS
+
+Backend API: https://github.com/leonShapiro/calendar-server
